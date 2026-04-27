@@ -34,6 +34,4 @@ Como estes são ficheiros estáticos, podes visualizar o resultado de duas forma
 1. **Localmente:** Faz o download do ficheiro e abre o `.html` no teu navegador (Chrome, Edge, etc).
 2. **Editor:** Abre o código no VS Code ou OnlineGDB para ver a estrutura das tags.
 
----
 
-*Repositório mantido para fins de estudo e consulta de sintaxe.*
