@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* comentario */
+        body{
+            background-color: #aabbcc;
+            font-family: "Comic Sans MS", Arial, Verdana;
+
+
+        }
+        p{
+            background-color: #4229d1;
+            font-family: "Comic Sans MS", Arial, Verdana;
+            color: #ffffff;
+            border: 10px solid black;
+            /* solid dashed dotted none double*/
+            width: 50%;
+            margin-left:20px;
+            margin-top:10px;
+            margin-right:10px;
+            margin-bottom: 10px;*/
+            /*margin: 30px;*/
+            margin: 10px 20px 30px 40px;
+                padding-left:50px;
+            }
+            .paulo{
+                background-color: #000000;
+                /*border-radius: 10px, 20px, 30px, 40px;*/
+                border-radius:20px;
+            }
+            #felipe{
+                background-color: rgb(255, 60, 0);
+                margin: auto;
+            }
+
+            .paulo:hover{
+                background-color: #1909f1;
+            }
+    </style>
+</head>
+<body>
+    texto base 
+    <p>paragrafo 01</p>
+    <p class="paulo">paragrafo 02</p>     
+    <p class="paulo" id="felipe">paragrafo 03</p>
+    <p class="paulo" id="felipe" style="background-color: gray;"> paragrafo 04</p>
+    <p class="paulo" id="felipe">paragrafo 05</p>     
+    <p>paragrafo 06</p>
+
+    <a href="https://onepiece.fandom.com/wiki/Monkey_D._Luffy" target="_blank">
+	<img id="gif" src="https://gifdb.com/images/high/cute-laughing-luffy-am88vo5oczuk7eu9.gif">
+	</a>
+	
+</body>
+</html>
